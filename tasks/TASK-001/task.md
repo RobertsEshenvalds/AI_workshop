@@ -4,4 +4,4 @@
 
 ## Request from Business
 
-_(type the wish card here)_
+Today only the four demo repositories exist, and nobody can add their own. Let people register a new repository by giving its name and its URL, and optionally a short description. The new repository belongs to whoever registered it, and it should have an analysis straight away.
