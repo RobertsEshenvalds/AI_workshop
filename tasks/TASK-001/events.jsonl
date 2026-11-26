@@ -1,1 +1,2 @@
 {"timestamp":"2026-11-25T12:00:00Z","task":"TASK-001","agent":"TRAINER","event":"TASK_CREATED","to":"PRODUCT_BA","reason":"New task created"}
+{"timestamp":"2026-11-26T15:23:19Z","task":"TASK-001","agent":"PRODUCT_BA","event":"REQUIREMENTS_READY","to":"ARCHITECT","reason":"Stage 1 self-assign"}
