@@ -1,0 +1,4 @@
+# Store every text file with Unix line endings, whatever each laptop writes.
+# Without this, an AI tool on Windows can turn a one-line change into a
+# whole-file change, and teammates then hit merge conflicts.
+* text=auto eol=lf

@@ -1,0 +1,13 @@
+# The watcher's local lock and memory. Never commit these.
+.watcher/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+*.pem
+*.key
